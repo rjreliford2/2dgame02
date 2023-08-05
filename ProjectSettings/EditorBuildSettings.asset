@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu.unity
+    guid: b608c8f09d1529d0188402b44a23f093
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: b2e9f6f510627dc468ba1cccfc882cd4
+  - enabled: 1
+    path: Assets/Scenes/BaseScene.unity
+    guid: 4e721d83fdfc0c347b1919774cc1b3de
+  - enabled: 1
+    path: Assets/Scenes/BuildingMenu.unity
+    guid: a0ca28db4f342c34583311950cd3ffb3
+  - enabled: 1
+    path: Assets/Scenes/UpgradeMenu.unity
+    guid: 2cd96cf9d5c2b114f9b2a27a58c10c65
+  - enabled: 1
+    path: Assets/Scenes/ResearchMenu.unity
+    guid: b77e7786f2e78da48a3c6a321d52f241
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 9717ae9768dcd6d4599064ae0ae2bf5d
+  - enabled: 1
+    path: Assets/Scenes/NarrativeScene.unity
+    guid: a43b0f67987214e4d9e162ff20a0face
+  - enabled: 1
+    path: Assets/Scenes/1MinigameIntroScene.unity
+    guid: f8c3721be7d5f7b4999c34bc35eab8a1
+  - enabled: 1
+    path: Assets/Scenes/1MinigameScene.unity
+    guid: 357f60933999fda4aabc9b35ad2e274d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 5d046a5fc73907ebbbeffe89ab3ff639
+  m_configObjects: {}
